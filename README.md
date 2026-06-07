@@ -6,8 +6,8 @@ This project analyzes historical Olympic Games data and predicts medal counts fo
 The goal is to explore how demographic and socio-economic factors relate to Olympic success and to compare the predictive performance of several models.
 
 ## 📂 Files
-- `SS4 Seminarski.py` – source code used for data preprocessing, modeling, and evaluation
-- `Seminarski_SS4.pdf` – final project report with explanations, methodology, results, and visualizations
+- `medal_prediction.py` – source code used for data preprocessing, modeling, and evaluation
+- `medal_prediction_analysis.pdf` – final project report with explanations, methodology, results, and visualizations
 
 ## 📊 Dataset
 The analysis combines Olympic medal data with country-level indicators such as population, GDP, and life expectancy.
